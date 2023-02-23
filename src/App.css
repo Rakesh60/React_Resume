@@ -1,0 +1,13 @@
+.Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h3 {
+  font-size: 25px;
+  color: rgb(0, 20, 198);
+}
+
+.Title {
+  text-align: center;
+}
